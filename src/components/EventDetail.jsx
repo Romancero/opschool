@@ -81,7 +81,7 @@ const EventDetail = () => {
               </div>
             </div>
             <div className='Novelties-detail-footer'>
-              <Link to='/opschool/novelties'><i className="fa-solid fa-arrow-left"></i>Back to Novelties</Link>
+              <Link to='/opschool/events'><i className="fa-solid fa-arrow-left"></i>Back to Novelties</Link>
             </div>
           </>
         )
