@@ -22,11 +22,11 @@ function Navbar() {
 
         let loc;
         if (location.pathname.includes('/schools')) {
-          loc = '/schools';
+          loc = '/opschool/schools';
         } else if (location.pathname.includes('/events')) {
-          loc = '/events';
+          loc = '/opschool/events';
         } else if (location.pathname.includes('/novelties')) {
-          loc = '/novelties';
+          loc = '/opschool/novelties';
         } else {
           loc = location.pathname;
         }
