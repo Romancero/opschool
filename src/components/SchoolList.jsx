@@ -53,7 +53,7 @@ const SchoolList = ({ schools }) => {
                   return turno + ', ';
                 }
               })}.</p>
-              <Link to={`/schools/${school.id}`} className='Schools-card-button'>Read More</Link>
+              <Link to={`/opschool/schools/${school.id}`} className='Schools-card-button'>Read More</Link>
               <div className='Schools-card-socialmedia'>
                 <a href={school.redesSociales.facebook} target="_blank" rel='noreferrer'><i className="fa-brands fa-facebook"></i></a>
                 <a href={school.redesSociales.twitter} target="_blank" rel='noreferrer'><i className="fa-brands fa-twitter"></i></a>
@@ -84,7 +84,7 @@ const SchoolList = ({ schools }) => {
                   return turno + ', ';
                 }
               })}.</p>
-              <Link to={`/schools/${school.id}`} className='Schools-card-button'>Read More</Link>
+              <Link to={`/opschool/schools/${school.id}`} className='Schools-card-button'>Read More</Link>
               <div className='Schools-card-socialmedia'>
                 <a href={school.redesSociales.facebook} target="_blank" rel='noreferrer'><i className="fa-brands fa-facebook"></i></a>
                 <a href={school.redesSociales.twitter} target="_blank" rel='noreferrer'><i className="fa-brands fa-twitter"></i></a>

@@ -49,7 +49,7 @@ const EventList = ({ events }) => {
                   ))
                 }
               </p>
-              <Link to={`/events/${event.id}`} className='Events-card-button'>Read More</Link>
+              <Link to={`/opschool/events/${event.id}`} className='Events-card-button'>Read More</Link>
             </div>
           ))
         }
@@ -72,7 +72,7 @@ const EventList = ({ events }) => {
                   ))
                 }
               </p>
-              <Link to={`/events/${event.id}`} className='Events-card-button'>Read More</Link>
+              <Link to={`/opschool/events/${event.id}`} className='Events-card-button'>Read More</Link>
             </div>
           ))
         }

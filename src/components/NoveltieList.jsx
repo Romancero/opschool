@@ -49,7 +49,7 @@ const NoveltieList = ({ novelties }) => {
                   ))
                 }
               </p>
-              <Link to={`/novelties/${noveltie.id}`} className='Novelties-card-button'>Read More</Link>
+              <Link to={`/opschool/novelties/${noveltie.id}`} className='Novelties-card-button'>Read More</Link>
             </div>
           ))
         }
@@ -72,7 +72,7 @@ const NoveltieList = ({ novelties }) => {
                   ))
                 }
               </p>
-              <Link to={`/novelties/${noveltie.id}`} className='Novelties-card-button'>Read More</Link>
+              <Link to={`/opschool/novelties/${noveltie.id}`} className='Novelties-card-button'>Read More</Link>
             </div>
           ))
         }

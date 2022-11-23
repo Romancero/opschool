@@ -81,7 +81,7 @@ const SchoolDetail = () => {
             </div>
 
             <div className='Schools-detail-footer'>
-              <Link to='/schools'><i className="fa-solid fa-arrow-left"></i>Back to Schools</Link>
+              <Link to='/opschool/schools'><i className="fa-solid fa-arrow-left"></i>Back to Schools</Link>
             </div>
           </>
         )
