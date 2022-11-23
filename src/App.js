@@ -12,7 +12,7 @@ import NotFound from './pages/NotFound';
 function App() {
   return (
     <Routes>
-      <Route path='/opschool/' element={<Layout />} >
+      <Route path='opschool/' element={<Layout />} >
         <Route index element={<Home />} />
         <Route path='schools/*' element={<Schools />} />
         <Route path='events/*' element={<Events />} />
