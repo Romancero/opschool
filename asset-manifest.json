@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/opschool/static/css/main.c91a62b8.css",
-    "main.js": "/opschool/static/js/main.bb31ee0c.js",
+    "main.js": "/opschool/static/js/main.c123ac29.js",
     "static/media/logo_opschool_ig.png": "/opschool/static/media/logo_opschool_ig.42d45c9e2bd1c872fc73.png",
     "index.html": "/opschool/index.html",
     "main.c91a62b8.css.map": "/opschool/static/css/main.c91a62b8.css.map",
-    "main.bb31ee0c.js.map": "/opschool/static/js/main.bb31ee0c.js.map"
+    "main.c123ac29.js.map": "/opschool/static/js/main.c123ac29.js.map"
   },
   "entrypoints": [
     "static/css/main.c91a62b8.css",
-    "static/js/main.bb31ee0c.js"
+    "static/js/main.c123ac29.js"
   ]
 }
