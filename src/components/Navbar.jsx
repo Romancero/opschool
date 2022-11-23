@@ -29,6 +29,7 @@ function Navbar() {
           loc = '/opschool/novelties';
         } else {
           loc = location.pathname;
+          console.log(loc)
         }
 
         setDropdownNavbarPageOpen([
